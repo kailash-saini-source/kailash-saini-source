@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi, I am Kailash
+I am learning software engineering from zero. My goal is a remote
+backend / AI engineer role in 2027.
+## What I am learning now
+- Python fundamentals
+- Git and GitHub
+- Next: web development, cloud and AI
+## My journey
+I push my work every day to [python-journey]
 
-<!--
-**kailash-saini-source/kailash-saini-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect
+[LinkedIn] (https://www.linkedin.com/in/kailash-saini-b231bb445)
